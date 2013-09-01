@@ -1,0 +1,14 @@
+The time indicator will be a circle with a smaller circle moving around it's circumference.
+This will suggest movement, but in the future could be scratched or scrubbed with the mouse
+to directly control time, or send it in another direction.
+
+The mouse wheel will be used to absorb or inject energy into the system, amount proportional to inverse
+square of distance of point to mouse.
+
+Supress the right mouse click handling.
+
+Scrollbars goof the coordinates, just like the space invaders example.
+
+Planet radius should be a function of the mass (cube root).
+
+Cube root in JavaScript?
